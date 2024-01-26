@@ -2,7 +2,7 @@
 - 👀 I’m interested in Technology
 - 🌱 I’m currently learning applied Datascience with ML and AI from IITD
 - 💞️ I’m looking to collaborate on DevOps practices, Agile, ML
-- 📫 Reach out to me on my makil surr26@outlook.com
+- 📫 Reach out to me on my mail surr26@outlook.com
 - 😄 Pronouns: He/Him
 - ⚡ Other interests fact: I like playing Table Tennis and Cricket
 
